@@ -6,4 +6,6 @@ Ao subir um video, onde se narra o conteúdo ele é capaz de descrever os proble
 
 Python 3.9.10
 Usa streamlit
+Crie uma pasta content/frames
 
+Após instalação rode streamlit run streamlit.py que abrirá uma janela em seu navegador. Testado em linux.
