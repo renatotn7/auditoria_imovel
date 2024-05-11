@@ -11,3 +11,5 @@ Crie uma pasta content/frames
 Após instalação rode streamlit run streamlit.py que abrirá uma janela em seu navegador. Testado em linux.
 
 Pode ser testado com o video exemplo
+
+(use sua api key do google, substitua no código) 
